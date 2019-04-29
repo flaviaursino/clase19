@@ -1,1 +1,4 @@
 verduleria 260
+
+libreria 500
+panaderia 200
